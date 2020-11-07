@@ -1,0 +1,14 @@
+{
+  "name": "belajarts",
+  "version": "1.0.0",
+  "description": "code result for PTS sc take home test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "makbar30",
+  "license": "ISC"
+}
